@@ -1,4 +1,7 @@
-#!/bin/sh
+#!/usr/bin/env bash
+## ek9/shell-scripts - https://github.com/ek9/shell-scripts
+## sync.sh
+## one-way sync via rsync
 set -e
 NAME=$(basename $0)
 VERSION=0.1.0

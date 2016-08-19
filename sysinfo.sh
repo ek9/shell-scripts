@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-#
-# by bohoomil
-# Display the number of installed packages,
-# version of the kernel and gcc used.
+## ek9/shell-scripts - https://github.com/ek9/shell-scripts
+## sysinfo.sh by bohoomil
+## Display the number of installed packages,version of the kernel and gcc used.
 
 HOST=$(uname -n)
 KERNEL=$(uname -r)

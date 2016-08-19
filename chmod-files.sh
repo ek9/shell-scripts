@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+## ek9/shell-scripts - https://github.com/ek9/shell-scripts
 ## chmod-files.sh
 # Find all files in current directory and chmods them according to provided
 # argument
