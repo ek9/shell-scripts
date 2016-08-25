@@ -21,6 +21,7 @@ You will be able to execute the scripts.
 ## Scripts
 
 - `backup-system.sh` - make a backup of your system (`/`) via rsync
+- `borg.sh` - wrapper script for borg backup.
 - `chmod-dirs.sh` - chmod directories only recursively
 - `chmod-files.sh` - chmod files only recursively
 - [imguralbum.py][20] - download imgur albums (by Alex Gisby)
