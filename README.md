@@ -24,6 +24,7 @@ You will be able to execute the scripts.
 - `borg.sh` - wrapper script for borg backup.
 - `chmod-dirs.sh` - chmod directories only recursively
 - `chmod-files.sh` - chmod files only recursively
+- `clamav-scansystem.sh` - scans system via clamav
 - [imguralbum.py][20] - download imgur albums (by Alex Gisby)
 - `random-pass.sh` - random password generator
 - `reflector-fetch.sh` - fetch new pacman mirrorlist via reflector
